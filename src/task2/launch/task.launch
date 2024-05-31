@@ -1,0 +1,7 @@
+<!-- task.launch -->
+<launch>
+  <rosparam command="load" file="/home/pedroalopes3/catkin_ws/src/task2/config/task2_coords.yaml" />
+  <node pkg="task2" type="talker1" name="talker1" output="screen" />
+  <node pkg="task2" type="listener1" name="listener1" output="screen" />
+  <node name="rviz" pkg="rviz" type="rviz"  />
+</launch>
