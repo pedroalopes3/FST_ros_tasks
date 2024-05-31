@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/task2_listener.dir/src/listener.cpp.o  -o /home/pedroalopes3/catkin_ws/devel/lib/task2/task2_listener 

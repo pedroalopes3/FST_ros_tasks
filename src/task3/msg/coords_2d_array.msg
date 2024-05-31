@@ -1,0 +1,1 @@
+task3/coords_2d[] points
